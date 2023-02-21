@@ -8,13 +8,13 @@
         "jhipster-7",
         "nodejs"
     ],
-    "homepage": "https://github.com/jhipster/generator-jhipster-nodejs",
+    "homepage": "https://github.com/AmiraAssem/md-generator-jhipster-nodejs",
     "bugs": {
         "url": "https://github.com/jhipster/generator-jhipster-nodejs/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jhipster/generator-jhipster-nodejs.git"
+        "url": "git+https://github.com/AmiraAssem/md-generator-jhipster-nodejs"
     },
     "license": "Apache-2.0",
     "author": {
