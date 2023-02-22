@@ -1,5 +1,5 @@
 {
-    "name": "md-generator-jhipster-nodejs",
+    "name": "generator-jhipster-nodejs",
     "version": "2.0.0",
     "description": "A NodeJS blueprint that creates the backend using NodeJS with NestJS framework",
     "keywords": [
@@ -8,13 +8,13 @@
         "jhipster-7",
         "nodejs"
     ],
-    "homepage": "https://github.com/AmiraAssem/md-generator-jhipster-nodejs",
+    "homepage": "https://github.com/jhipster/generator-jhipster-nodejs",
     "bugs": {
         "url": "https://github.com/jhipster/generator-jhipster-nodejs/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AmiraAssem/md-generator-jhipster-nodejs"
+        "url": "git+https://github.com/jhipster/generator-jhipster-nodejs.git"
     },
     "license": "Apache-2.0",
     "author": {
